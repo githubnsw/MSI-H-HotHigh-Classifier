@@ -6,7 +6,7 @@
 
 This repository contains analysis code and data for the manuscript:
 
-> **"Immune landscape-based subtyping and a 20-gene signature for predicting immunotherapy response in dMMR/MSI-H tumors"**
+> **"Finding the True Responders: Stratifying dMMR/MSI-H Tu-mors for ICI Response"**
 
 ## 20-Gene Signature
 
