@@ -8,6 +8,8 @@ This repository contains analysis code and data for the manuscript:
 
 > **"Finding the True Responders: Stratifying dMMR/MSI-H Tu-mors for ICI Response"**
 
+This repository provides the final 20-gene HotHigh signature and model coefficients for prediction. Internal discovery and feature-selection pipelines are fully described in the manuscript and are not reimplemented here.
+
 ## 20-Gene Signature
 
 | Gene | Gene | Gene | Gene |
